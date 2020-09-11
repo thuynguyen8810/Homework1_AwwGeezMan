@@ -1,5 +1,7 @@
 cmake_minimum_required (VERSION 3.1)
 
+project(Homework1)
+
 # Execute CMake for Eclipse as:
 # cmake ../AwwGeezMan/ -G"Eclipse CDT4 - Unix Makefiles" 
 #	-DCMAKE_ECLIPSE_VERSION=4.14 -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER_ARG1=-std=c++17
