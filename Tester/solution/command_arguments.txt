@@ -1,0 +1,77 @@
+[args for output_0.txt] 1 30 C137
+[args for output_1.txt] 1 30 Z286
+[args for output_2.txt] 4 25 C137
+[args for output_3.txt] 4 25 Z286
+[args for output_4.txt] 8 26 C137
+[args for output_5.txt] 8 26 Z286
+[args for output_6.txt] 7 27 C137
+[args for output_7.txt] 7 27 Z286
+[args for output_8.txt] 16 28 C137
+[args for output_9.txt] 16 28 Z286
+[args for output_10.txt] 5 29 C137
+[args for output_11.txt] 5 29 Z286
+[args for output_12.txt] 22 30 C137
+[args for output_13.txt] 22 30 Z286
+[args for output_14.txt] 29 31 C137
+[args for output_15.txt] 29 31 Z286
+[args for output_16.txt] 6 32 C137
+[args for output_17.txt] 6 32 Z286
+[args for output_18.txt] 12 33 C137
+[args for output_19.txt] 12 33 Z286
+[args for output_20.txt] 19 34 C137
+[args for output_21.txt] 19 34 Z286
+[args for output_22.txt] 23 35 C137
+[args for output_23.txt] 23 35 Z286
+[args for output_24.txt] 24 36 C137
+[args for output_25.txt] 24 36 Z286
+[args for output_26.txt] 4 37 C137
+[args for output_27.txt] 4 37 Z286
+[args for output_28.txt] 37 38 C137
+[args for output_29.txt] 37 38 Z286
+[args for output_30.txt] 7 39 C137
+[args for output_31.txt] 7 39 Z286
+[args for output_32.txt] 17 40 C137
+[args for output_33.txt] 17 40 Z286
+[args for output_34.txt] 5 41 C137
+[args for output_35.txt] 5 41 Z286
+[args for output_36.txt] 8 42 C137
+[args for output_37.txt] 8 42 Z286
+[args for output_38.txt] 16 43 C137
+[args for output_39.txt] 16 43 Z286
+[args for output_40.txt] 24 44 C137
+[args for output_41.txt] 24 44 Z286
+[args for output_42.txt] 28 45 C137
+[args for output_43.txt] 28 45 Z286
+[args for output_44.txt] 41 46 C137
+[args for output_45.txt] 41 46 Z286
+[args for output_46.txt] 14 47 C137
+[args for output_47.txt] 14 47 Z286
+[args for output_48.txt] 39 48 C137
+[args for output_49.txt] 39 48 Z286
+[args for output_50.txt] 5 49 C137
+[args for output_51.txt] 5 49 Z286
+[args for output_52.txt] 43 50 C137
+[args for output_53.txt] 43 50 Z286
+[args for output_54.txt] 30 50 2 C137
+[args for output_55.txt] 30 50 2 Z286
+[args for output_56.txt] 46 50 3 C137
+[args for output_57.txt] 46 50 3 Z286
+[args for output_58.txt] 36 50 4 C137
+[args for output_59.txt] 36 50 4 Z286
+[args for output_60.txt] 3 50 5 C137
+[args for output_61.txt] 3 50 5 Z286
+[args for output_62.txt] 4 50 6 C137
+[args for output_63.txt] 4 50 6 Z286
+[args for output_64.txt] 28 50 7 C137
+[args for output_65.txt] 28 50 7 Z286
+[args for output_66.txt] 36 50 8 C137
+[args for output_67.txt] 36 50 8 Z286
+[args for output_68.txt] 6 50 9 C137
+[args for output_69.txt] 6 50 9 Z286
+[args for output_70.txt] 45 50 10 C137
+[args for output_71.txt] 45 50 10 Z286
+[args for output_72.txt] 10 100 C137
+[args for output_73.txt] 50 5000 4 Z286
+[args for output_74.txt] 10 100 Dfadsf
+[args for output_75.txt] 10 100 adfa
+[args for output_76.txt] 10 100 afdasfea

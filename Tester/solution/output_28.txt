@@ -1,0 +1,5 @@
+# Command arguments: 37 38 C137
+# Solution:
+Morty C137 says:
+37: 
+38: 

@@ -1,0 +1,25 @@
+# Command arguments: 4 25 C137
+# Solution:
+Morty C137 says:
+4: 
+5: Geez
+6: Aww
+7: 
+8: 
+9: Aww
+10: Geez
+11: 
+12: Aww
+13: 
+14: 
+15: Aww Geez Man
+16: 
+17: 
+18: Aww
+19: 
+20: Geez
+21: Aww
+22: 
+23: 
+24: Aww
+25: Geez

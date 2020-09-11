@@ -1,0 +1,7 @@
+# Command arguments: 28 50 7 C137
+# Solution:
+Morty C137 says:
+28: 
+35: Geez
+42: Aww
+49: 

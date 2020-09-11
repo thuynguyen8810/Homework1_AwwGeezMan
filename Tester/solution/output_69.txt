@@ -1,0 +1,8 @@
+# Command arguments: 6 50 9 Z286
+# Solution:
+Morty Z286 says:
+6: wwA
+15: naM zeeG wwA
+24: wwA
+33: wwA
+42: wwA

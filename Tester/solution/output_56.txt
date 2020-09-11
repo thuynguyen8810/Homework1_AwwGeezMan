@@ -1,0 +1,5 @@
+# Command arguments: 46 50 3 C137
+# Solution:
+Morty C137 says:
+46: 
+49: 

@@ -1,0 +1,5 @@
+# Command arguments: 37 38 Z286
+# Solution:
+Morty Z286 says:
+37: 
+38: 

@@ -1,0 +1,7 @@
+# Command arguments: 36 50 4 Z286
+# Solution:
+Morty Z286 says:
+36: wwA
+40: zeeG
+44: 
+48: wwA

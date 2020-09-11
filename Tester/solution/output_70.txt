@@ -1,0 +1,4 @@
+# Command arguments: 45 50 10 C137
+# Solution:
+Morty C137 says:
+45: Aww Geez Man

@@ -1,0 +1,3 @@
+# Command arguments: 10 100 Dfadsf
+# Solution:
+ERROR: Unknown dimension!!

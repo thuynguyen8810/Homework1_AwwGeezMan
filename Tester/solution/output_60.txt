@@ -1,0 +1,13 @@
+# Command arguments: 3 50 5 C137
+# Solution:
+Morty C137 says:
+3: Aww
+8: 
+13: 
+18: Aww
+23: 
+28: 
+33: Aww
+38: 
+43: 
+48: Aww

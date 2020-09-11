@@ -1,0 +1,21 @@
+# Command arguments: 28 45 Z286
+# Solution:
+Morty Z286 says:
+28: 
+29: 
+30: naM zeeG wwA
+31: 
+32: 
+33: wwA
+34: 
+35: zeeG
+36: wwA
+37: 
+38: 
+39: wwA
+40: zeeG
+41: 
+42: wwA
+43: 
+44: 
+45: naM zeeG wwA

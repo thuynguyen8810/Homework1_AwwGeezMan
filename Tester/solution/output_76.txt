@@ -1,0 +1,3 @@
+# Command arguments: 10 100 afdasfea
+# Solution:
+ERROR: Unknown dimension!!

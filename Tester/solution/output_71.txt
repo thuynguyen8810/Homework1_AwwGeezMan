@@ -1,0 +1,4 @@
+# Command arguments: 45 50 10 Z286
+# Solution:
+Morty Z286 says:
+45: naM zeeG wwA

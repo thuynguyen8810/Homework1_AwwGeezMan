@@ -1,0 +1,37 @@
+# Command arguments: 4 37 Z286
+# Solution:
+Morty Z286 says:
+4: 
+5: zeeG
+6: wwA
+7: 
+8: 
+9: wwA
+10: zeeG
+11: 
+12: wwA
+13: 
+14: 
+15: naM zeeG wwA
+16: 
+17: 
+18: wwA
+19: 
+20: zeeG
+21: wwA
+22: 
+23: 
+24: wwA
+25: zeeG
+26: 
+27: wwA
+28: 
+29: 
+30: naM zeeG wwA
+31: 
+32: 
+33: wwA
+34: 
+35: zeeG
+36: wwA
+37: 

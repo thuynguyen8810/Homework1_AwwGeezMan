@@ -1,0 +1,12 @@
+# Command arguments: 22 30 C137
+# Solution:
+Morty C137 says:
+22: 
+23: 
+24: Aww
+25: Geez
+26: 
+27: Aww
+28: 
+29: 
+30: Aww Geez Man

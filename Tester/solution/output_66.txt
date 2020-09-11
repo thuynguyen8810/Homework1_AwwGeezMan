@@ -1,0 +1,5 @@
+# Command arguments: 36 50 8 C137
+# Solution:
+Morty C137 says:
+36: Aww
+44: 

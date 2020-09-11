@@ -1,0 +1,11 @@
+# Command arguments: 4 50 6 C137
+# Solution:
+Morty C137 says:
+4: 
+10: Geez
+16: 
+22: 
+28: 
+34: 
+40: Geez
+46: 

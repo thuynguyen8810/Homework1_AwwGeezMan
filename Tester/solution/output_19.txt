@@ -1,0 +1,25 @@
+# Command arguments: 12 33 Z286
+# Solution:
+Morty Z286 says:
+12: wwA
+13: 
+14: 
+15: naM zeeG wwA
+16: 
+17: 
+18: wwA
+19: 
+20: zeeG
+21: wwA
+22: 
+23: 
+24: wwA
+25: zeeG
+26: 
+27: wwA
+28: 
+29: 
+30: naM zeeG wwA
+31: 
+32: 
+33: wwA

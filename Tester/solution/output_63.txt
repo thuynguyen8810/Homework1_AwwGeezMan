@@ -1,0 +1,11 @@
+# Command arguments: 4 50 6 Z286
+# Solution:
+Morty Z286 says:
+4: 
+10: zeeG
+16: 
+22: 
+28: 
+34: 
+40: zeeG
+46: 

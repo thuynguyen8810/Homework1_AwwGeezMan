@@ -1,0 +1,6 @@
+# Command arguments: 29 31 C137
+# Solution:
+Morty C137 says:
+29: 
+30: Aww Geez Man
+31: 

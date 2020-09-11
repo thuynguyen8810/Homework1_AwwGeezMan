@@ -1,0 +1,5 @@
+# Command arguments: 46 50 3 Z286
+# Solution:
+Morty Z286 says:
+46: 
+49: 

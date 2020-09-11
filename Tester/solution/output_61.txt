@@ -1,0 +1,13 @@
+# Command arguments: 3 50 5 Z286
+# Solution:
+Morty Z286 says:
+3: wwA
+8: 
+13: 
+18: wwA
+23: 
+28: 
+33: wwA
+38: 
+43: 
+48: wwA
