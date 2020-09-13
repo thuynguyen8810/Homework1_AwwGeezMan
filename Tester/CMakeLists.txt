@@ -33,5 +33,5 @@ set_target_properties(AwwGeezManTester PROPERTIES
 
 # declares a test with our executable with or without testing the extra credit
 # option
-#add_definitions(-DEXTRA_CREDIT)
+add_definitions(-DEXTRA_CREDIT)
 add_test(NAME AwwGeezHomeworkTester COMMAND AwwGeezManTester) 
