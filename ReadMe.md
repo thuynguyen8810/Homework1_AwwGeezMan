@@ -26,7 +26,7 @@ You are to write a program to the following specifications:
 
 Below see two examples. Note that line starting with "#" should not be printed in your program and are there only to provide human and machine readable information, i.e., the "#" is a comment in these files.
 
-An example of one valid command line argument:
+An example of one valid command line argument: 
 
 ```
 # Command arguments: 4 25 C137
