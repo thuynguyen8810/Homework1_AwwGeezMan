@@ -3,8 +3,7 @@
 What if there was a Morty in another dimension who said everything backwards?
 
 
-[![The Personal Space Show](imgs/gettinWeird.jpg)](https://www.youtube.com/watch?v=szjdoVR5EKs)
-
+![The Personal Space Show](imgs/gettinWeird.jpg)
 
 > Aww Geez Man, do we really have another Rick and Morty themed assignment!?
 
