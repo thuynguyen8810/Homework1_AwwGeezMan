@@ -1,10 +1,23 @@
 /*
- * Aww Geez Man: Interdimensional Mortys.
- *
- * One of Morty C137's favorite phrases is "Aww Geez Man". But, in dimension Z286, there
- * exists a Morty who says everything backwards.
- *
- */
+ _____ ____ _____   ____ _____ ____  
+| ____/ ___| ____| |___ \___  | ___| 
+|  _|| |   |  _|     __) | / /|___ \ 
+| |__| |___| |___   / __/ / /  ___) |
+|_____\____|_____| |_____/_/  |____/ 
+                                     
+ _   _                                         _      _ 
+| | | | ___  _ __ ___   _____      _____  _ __| | __ / |
+| |_| |/ _ \| '_ ` _ \ / _ \ \ /\ / / _ \| '__| |/ / | |
+|  _  | (_) | | | | | |  __/\ V  V / (_) | |  |   <  | |
+|_| |_|\___/|_| |_| |_|\___| \_/\_/ \___/|_|  |_|\_\ |_|
+ 
+ 
+Aww Geez Man: Interdimensional Mortys.
+
+One of Morty C137's favorite phrases is "Aww Geez Man". But, in dimension Z286, there
+exists a Morty who says everything backwards.
+
+*/
 
 // Include the Morty header file
 #include "Morty.hpp"
