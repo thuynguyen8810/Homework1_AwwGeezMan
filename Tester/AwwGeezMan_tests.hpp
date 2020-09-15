@@ -8,6 +8,8 @@
 #include <cstdlib>
 #include <random>
 
+#if defined( EXTRA_CREDIT )
+
 int getDim(std::string dimstr) {
 	if (dimstr == "C137")
 		return interdimensional::C137;
@@ -50,3 +52,5 @@ void test_argument_parse(std::vector<std::string> args_string) {
 	BOOST_CHECK( args.stop == stop );
 	BOOST_CHECK( args.step == step );
 }
+
+#endif
